@@ -127,3 +127,11 @@
     outline: 1px solid skyblue;
     transition: 0.5s;
 }
+
+
+/**features Section**/
+.card:hover{
+    transition: 0.5s !important;
+    color: white;
+    background-color: skyblue !important;
+}
